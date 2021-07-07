@@ -4,3 +4,4 @@ there is my computer
 Creating a new branch is quick.
 it is master.
 it is master.
+there is manage branch.
